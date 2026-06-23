@@ -68,5 +68,5 @@ Cairo University (2022 – Present)
 
 ## Contact
 
-- LinkedIn: [](https://www.linkedin.com/in/amr-yaacoob-47852a283/)
+- LinkedIn: [(https://www.linkedin.com/in/amr-yaacoob-47852a283/)]
 - Email: hamr34357@gmail.com
