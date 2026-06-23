@@ -31,7 +31,6 @@ Interested in:
 - C
 - C++
 - MATLAB
-- Python
 
 ### Tools
 - Vivado
