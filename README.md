@@ -1,145 +1,73 @@
 # Hi, I'm Amr Hassan 👋
 
-### Electronics and Communications Engineering Student
+Electronics and Communications Engineering Student at Cairo University.
 
-Passionate about **Embedded Systems**, **Digital Design**, **FPGA Development**, **Verification Engineering**, **Computer Architecture**, and **Wireless Communications**.
+Interested in:
 
----
+- Digital Design
+- Verification Engineering
+- FPGA Development
+- Embedded Systems
+- Computer Architecture
+- Wireless Communications
 
-## 🚀 Technical Skills
+## Technical Skills
 
-### Programming Languages
-
-* C
-* C++
-* Python
-* MATLAB
-* Embedded C
-
-### Hardware Design & Verification
-
-* Verilog
-* SystemVerilog
-* UVM
-* Assertion-Based Verification (ABV)
-* FPGA Design
-* RTL Design
+### Design & Verification
+- Verilog
+- SystemVerilog
+- UVM
+- Functional Coverage
+- ABV
+- FPGA Design
 
 ### Embedded Systems
+- STM32
+- ESP32
+- ATmega32
+- FreeRTOS
 
-* STM32
-* ESP32
-* ATmega32
-* FreeRTOS
-* Arduino
+### Programming
+- C
+- C++
+- MATLAB
+- Python
 
-### EDA & Development Tools
+### Tools
+- Vivado
+- QuestaSim
+- ModelSim
+- Altium Designer
+- HFSS
+- CST
+- Git
 
-* Vivado
-* QuestaSim
-* ModelSim
-* Eclipse IDE
-* Arduino IDE
-* Proteus
-* Altium Designer
-* Qt Creator
-* Git & GitHub
+## Featured Projects
 
-### Communication & RF
+### RISC-Based 8-bit Pipelined Processor
+5-stage pipelined processor implemented in Verilog and deployed on Artix-7 FPGA.
 
-* Digital Communications
-* Computer Networks
-* HFSS
-* CST Studio Suite
-* Antenna Design
+### SPI Slave with Single-Port RAM Verification
+Complete UVM verification environment with constrained-random testing and coverage closure.
 
----
+### DSP48A1 Slice Design
+RTL implementation and verification of Xilinx DSP48A1 slice.
 
-# 🏆 Featured Projects
+### RTOS Network Simulation
+Go-Back-N protocol simulation using FreeRTOS tasks and queues.
 
-## RISC-Based 8-bit Pipelined Processor
+### IoT Water Level Monitoring System
+ESP32-based IoT monitoring platform with cloud dashboard and custom PCB.
 
-**Verilog | Vivado | ModelSim | FPGA**
+### 25 GHz Phased Array Antenna
+4-element phased-array antenna with beam steering capability.
 
-* Designed and implemented a complete 5-stage pipelined processor.
-* Integrated forwarding unit, hazard handling, branching logic, interrupts, and stack operations.
-* Achieved operation up to **190 MHz** on a Xilinx Artix-7 FPGA.
+## Education
 
-## SPI Slave with Single-Port RAM Verification
+B.Sc. Electronics and Communications Engineering
+Cairo University (2022 – Present)
 
-**SystemVerilog | UVM | QuestaSim**
+## Contact
 
-* Developed a complete UVM verification environment.
-* Implemented constrained-random testing and coverage-driven verification.
-* Integrated a golden reference model and assertion-based checks.
-
-## Synchronous FIFO Verification
-
-**SystemVerilog | ModelSim**
-
-* Verified a parameterized FIFO using assertions and functional coverage.
-* Tested overflow, underflow, and corner-case scenarios.
-
-## DSP48A1 Slice Design
-
-**Verilog | Vivado | QuestaSim**
-
-* Implemented and verified a Xilinx DSP48A1 slice.
-* Completed RTL design, simulation, synthesis, and implementation flow.
-
-## RTOS Network Simulation (Go-Back-N Protocol)
-
-**C | FreeRTOS | Eclipse**
-
-* Simulated packet transmission using RTOS tasks, queues, and semaphores.
-* Implemented retransmission logic and packet-loss recovery.
-* Evaluated throughput and protocol efficiency.
-
-## 25 GHz Phased Array Antenna Design
-
-**HFSS | CST**
-
-* Designed and simulated a 4-element phased-array antenna.
-* Implemented beam steering and impedance-matched feeding network.
-* Analyzed gain, radiation patterns, and S-parameters.
-
-## IoT Water Level Monitoring System
-
-**ESP32 | Altium | Python | JavaScript**
-
-* Developed a distributed IoT monitoring solution using ESP32 modules.
-* Built cloud-based monitoring and historical data visualization.
-* Designed production-ready 2-layer PCBs.
-
-## AI Tic-Tac-Toe Game
-
-**C++ | Qt | SQLite**
-
-* Developed a GUI-based game supporting Human vs Human and Human vs AI.
-* Implemented Minimax with Alpha-Beta Pruning.
-* Integrated SQLite for authentication and game history.
-
-## Smart Robot Car
-
-**Arduino | Embedded C**
-
-* Built an autonomous robot with obstacle avoidance and line-following capabilities.
-* Integrated ultrasonic and infrared sensors for navigation.
-
-## 555 Timer Circuit Design
-
-**Proteus**
-
-* Designed and simulated an astable multivibrator using the 555 Timer IC.
-* Verified operation across multiple frequency configurations.
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: [Add Your LinkedIn Profile]
-* Email: [Add Your Email]
-
----
-
-⭐ Feel free to explore my repositories and projects.
+- LinkedIn: [Your LinkedIn]
+- Email: hamr34357@gmail.com
